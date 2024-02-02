@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    font-family: "inter";
+    
+}
+
+#partesuperior{
+    padding: 205px 354px 148px 59px;
+    background-color: #303030;
+    width: 891px;
+    color: #ffffff;
+}
+
+#titulosuperior{
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -0.025em;
+    text-align: left;
+    margin-right: -300px;
+
+}
+
+#paragrafosuperior{
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.Rempresa{
+    margin: 50px 0px 50px 100px;
+    margin-inline: center;
+}
+
+
+#corpoimagem{
+   margin-left: 750px;
+}
+
+#paragrafocorpo{
+    font-size: 20px;
+}
+
+#corpo{
+    margin: -400px 0px 50px 75px;
+}
+
+#projetoinferior{
+    background-color: #303030;
+    padding: 80px;
+    margin: 250px 0px 0px 0px;
+    color: #ffffff;
+}
+
+#tituloinferior{
+    margin-left: 280px;
+}
+
+input{
+    padding-left: 15px;
+    border: 0px;
+    border-radius: 10px;
+    font-size: 37px;
+    margin: 50px 0px 25px 325px;
+}
+
+button{
+    background-color:#C07212;
+    color: #ffffff;
+    border: 0px;
+    border-radius: 10px;
+    font-size: 30px;
+    padding: 20px 20px 20px 20px;
+    margin-left: 450px;
+    cursor: pointer;
+}
+
+button:hover{
+    transform: translateY(-7);
+    box-shadow: 0px 15px 20px #583305;
+    transition-duration: 0,25s;
+}
