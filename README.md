@@ -1,2 +1,2 @@
-# DESAFIO-1-RESOLU-AO
+# DESAFIO-1-RESOLUÇAO
 Este é o meu primeiro desafio feito sozinho...
